@@ -25,14 +25,14 @@ const CONFIG = {
   
   // Email configuration
   email: {
-    from: 'your-email@gmail.com', // Replace with your email
-    to: 'your-email@gmail.com',   // Replace with recipient email
+    from: 'donovanh59@gmail.com', // Replace with your email
+    to: 'donovanh59@gmail.com',   // Replace with recipient email
     subject: 'New VW Golf GTI Performance listing on Autotrader!',
     smtpConfig: {
       service: 'gmail',
       auth: {
-        user: 'your-email@gmail.com',     // Replace with your email
-        pass: 'your-app-password'         // Replace with app password
+        user: 'donovanh59@gmail.com',     // Replace with your email
+        pass: 'shar rspm ewxw golu'         // Replace with app password
       }
     }
   },
