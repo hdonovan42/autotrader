@@ -1,0 +1,14 @@
+{
+    "name": "autotrader-monitoring-bot",
+    "version": "1.0.0",
+    "description": "Bot that monitors Autotrader.co.uk for specific car listings and sends email notifications",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.0",
+      "cheerio": "^1.0.0-rc.12",
+      "nodemailer": "^6.9.5"
+    }
+  }
